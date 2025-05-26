@@ -1,0 +1,19 @@
+{
+  "diagnosis": [
+    {
+      "gejala": "batuk",
+      "description": "batuk terus karna minum es",
+      "diagnosisId": "dx001"
+    },
+    {
+      "gejala": "demam",
+      "description": "demam tinggi disertai sakit kepala",
+      "diagnosisId": "dx002"
+    },
+    {
+      "gejala": "flu",
+      "description": "pilek dan hidung tersumbat",
+      "diagnosisId": "dx003"
+    }
+  ]
+}
